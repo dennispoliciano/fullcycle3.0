@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codeflix.admincatalog.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-03T01:13:19" hostname="dennis-S550CA" time="0.065">
+  <properties/>
+  <testcase name="testMain()" classname="com.codeflix.admincatalog.infrastructure.MainTest" time="0.065"/>
+  <system-out><![CDATA[Hello world!
+com.codeflix.admincatalog.domain.Category@13e344d
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
